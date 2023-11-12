@@ -1,0 +1,20 @@
+<svg width="421.8" height="170.1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+ <defs>
+  <radialGradient gradientUnits="userSpaceOnUse" gradientTransform="matrix(-6.887427e-02 0.8294 2.922520e-02 4.132971e-03 354.2026 2148.9148)" fy="-3693.3677" fx="-2643.8372" r="537.4837" cy="-3762.8328" cx="-2580.9507" id="SVGID_1_">
+   <stop stop-color="#871518" offset="0"/>
+   <stop stop-opacity="0.865" stop-color="#881919" offset="0.135"/>
+   <stop stop-opacity="0.7382" stop-color="#8C241E" offset="0.2618"/>
+   <stop stop-opacity="0.6147" stop-color="#933427" offset="0.3853"/>
+   <stop stop-opacity="0.493" stop-color="#9E4938" offset="0.507"/>
+   <stop stop-opacity="0.3728" stop-color="#AB6250" offset="0.6272"/>
+   <stop stop-opacity="0.2536" stop-color="#BE8371" offset="0.7464"/>
+   <stop stop-opacity="0.1353" stop-color="#D5B0A2" offset="0.8647"/>
+   <stop stop-opacity="0.02049" stop-color="#F5ECE8" offset="0.9795"/>
+   <stop stop-opacity="0" stop-color="#FFFFFF" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_3" fill="url(#SVGID_1_)" height="170.1" width="31.1" class="right-gradient" x="420.7"/>
+ </g>
+</svg>

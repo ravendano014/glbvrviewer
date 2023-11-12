@@ -1,0 +1,155 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer-layout {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #303030;
+}
+
+@media (min-width: 960px) {
+    .footer-link-container {
+        margin-left: 75px;
+    }
+}
+
+@media(max-width: 959px) {
+    .footer-link-container {
+        margin-right: auto;
+        margin-left: 50px;
+    }
+}
+
+.footer-link {
+    margin-right: 25px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.footer-link:last-child {
+    margin-right: 0px;
+}
+
+
+
+.branding__header {
+    top: 0;
+    left: auto;
+    right: 0;
+    position: fixed;
+    margin-bottom: 16px;
+    width: 100%;
+    background: radial-gradient(#da0012, #b6000f 70%);
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 0px 4px 5px 0px rgba(0,0,0,0.14), 0px 1px 10px 0px rgba(0,0,0,0.12);
+    box-sizing: border-box;
+    display: flex;
+    flex-shrink: 0;
+    flex-direction: column;
+    z-index: 1000;
+}
+
+.branding__header__container {
+    background-color: #e2000f;
+    padding-left: 16px;
+    color: #fff;
+    display: flex;
+    position: relative;
+    align-items: center;
+    height: 70px;
+}
+
+.branding__header__logo-img {
+    height: 60px;
+    margin-top: 8px;
+}
+
+.branding__header__logo {
+    float: left;
+    width: 162px;
+    display: block;
+    padding: 8px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.container {
+    padding-top: 10px;
+}
+
+.termsContainer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.termsContainer > p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
