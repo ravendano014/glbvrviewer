@@ -7,3 +7,7 @@ GLB VR Viewer
  Spidey
 
 [Model](https://ravendano014.github.io/glbvrviewer/spidey.html)
+
+ Spot
+
+[Model](https://ravendano014.github.io/glbvrviewer/spot.html)
