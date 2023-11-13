@@ -11,3 +11,7 @@ GLB VR Viewer
  Spot
 
 [Model](https://ravendano014.github.io/glbvrviewer/spot.html)
+
+ Miss Minutes
+
+[Model](https://ravendano014.github.io/glbvrviewer/minutes.html)
